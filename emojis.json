@@ -1,6 +1,7 @@
 [
   {
-    "group": "Emotion",
+    "group": "Emotion & Smileys",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/emotion.png",
     "position": 1,
     "premium": 0,
     "premium_tier": 0,
@@ -147,6 +148,7 @@
   },
   {
     "group": "People & Body",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/people.png",
     "position": 2,
     "premium": 0,
     "premium_tier": 0,
@@ -198,6 +200,7 @@
   },
   {
     "group": "Animals & Nature",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/nature.png",
     "position": 3,
     "premium": 0,
     "premium_tier": 0,
@@ -241,6 +244,7 @@
   },
   {
     "group": "Food & Drink",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/food.png",
     "position": 4,
     "premium": 0,
     "premium_tier": 0,
@@ -258,6 +262,7 @@
   },
   {
     "group": "Travel & Places",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/travel.png",
     "position": 5,
     "premium": 0,
     "premium_tier": 0,
@@ -295,6 +300,7 @@
   },
   {
     "group": "Activities",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/activities.png",
     "position": 6,
     "premium": 0,
     "premium_tier": 0,
@@ -322,6 +328,7 @@
   },
   {
     "group": "Objects",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/objects.png",
     "position": 7,
     "premium": 0,
     "premium_tier": 0,
@@ -346,6 +353,7 @@
   },
   {
     "group": "Symbols",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/symbols.png",
     "position": 8,
     "premium": 0,
     "premium_tier": 0,
@@ -374,6 +382,7 @@
   },
   {
     "group": "Flags",
+    "group_image": "https://raw.githubusercontent.com/marquezmiguel/emojis/main/groups/flags.png",
     "position": 9,
     "premium": 0,
     "premium_tier": 0,
